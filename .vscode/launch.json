@@ -1,0 +1,84 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch blackCofferDataRetreival",
+      "request": "launch",
+      "mainClass": "blackCofferDataRetreival",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    },
+    {
+      "type": "java",
+      "name": "Launch helloWorld",
+      "request": "launch",
+      "mainClass": "JAVA1LAB.helloWorld",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    },
+    {
+      "type": "java",
+      "name": "Launch dataRetrieval",
+      "request": "launch",
+      "mainClass": "dataRetrieval",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch ClientCon",
+      "request": "launch",
+      "mainClass": "ClientCon",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    },
+    {
+      "type": "java",
+      "name": "Launch AddClient",
+      "request": "launch",
+      "mainClass": "RMI.AddClient",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    },
+    {
+      "type": "java",
+      "name": "Launch AddServer",
+      "request": "launch",
+      "mainClass": "RMI.AddServer",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    },
+    {
+      "type": "java",
+      "name": "Launch ServerCon",
+      "request": "launch",
+      "mainClass": "ServerCon",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    },
+    {
+      "type": "java",
+      "name": "Launch dataInsertion",
+      "request": "launch",
+      "mainClass": "dataInsertion",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    },
+    {
+      "type": "java",
+      "name": "Launch degCelsiusToFarenheit",
+      "request": "launch",
+      "mainClass": "degCelsiusToFarenheit",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    },
+    {
+      "type": "java",
+      "name": "Launch studentReport",
+      "request": "launch",
+      "mainClass": "studentReport",
+      "projectName": "COMPLETE JAVA_f2d56aa3"
+    }
+  ]
+}
